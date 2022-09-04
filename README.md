@@ -14,3 +14,7 @@
 2. copy and set environmental variable `DISCORD_WEBHOOK_URL` 
 
 
+### others
+1. you can handle slack webhook in discord, if you add `/slack` to `DISCORD_WEBHOOK_URL` 
+    - [ref](https://discord.com/developers/docs/resources/webhook#execute-slackcompatible-webhook)
+
